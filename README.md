@@ -34,7 +34,7 @@ Mousse supports distributed execution. To run Mousse, you will need:
 1. One server that runs Ubuntu 16.04.3 LTS. Other Ubuntu versions might also work, but not guaranted. 
 2. At least one Pixel 3 (client) that runs blueline (android-9.0.0_r30 from AOSP). Other Android phones would also work, but this instruction is based on Pixel 3. 
 
-# Set up the hardwares
+# Set up the hardware
 * On the server, you need to have git, gcc, adb, fastboot, python and libelf-dev installed already. If not, run:
 ```
       sudo apt-get install gcc git android-tools-adb android-tools-fastboot python libelf-dev
@@ -110,9 +110,9 @@ When the testing is finished, you will see print like "server has no data availa
 Please refer to [here](https://github.com/trusslab/mousse_scripts/blob/master/testing/README) if you want to try mousse checkers, mousse coverage plugin or test a real Android service.
 
 # People
-* (System Developer) Yingtong Liu
-* (System Developer) Hsin-Wei Hung
-* (Faculty Advisor) Ardalan Amiri Sani
+* [Yingtong Liu](https://www.ics.uci.edu/~yingtong/index.html) (Ph.D. student, System developer) 
+* [Hsin-Wei Hung](http://newport.eecs.uci.edu/~hsinweih/) (Ph.D. student, System developer) 
+* [Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/index.html) (Faculty advisor) 
 
 # Acknowledgments
 The work was supported by NSF Award #1763172
