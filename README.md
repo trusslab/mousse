@@ -109,5 +109,10 @@ When the testing is finished, you will see print like "server has no data availa
 # Enable additional Mousse features
 Please refer to [here](https://github.com/trusslab/mousse_scripts/blob/master/testing/README) if you want to try mousse checkers, mousse coverage plugin or test a real Android service.
 
+# People
+* (System Developer) Yingtong Liu
+* (System Developer) Hsin-Wei Hung
+* (Faculty Advisor) Ardalan Amiri Sani
+
 # Acknowledgments
 The work was supported by NSF Award #1763172
