@@ -107,7 +107,7 @@ You can monitor the server's progress in server.log. Or you can run 'screen -r' 
 When the testing is finished, you will see print like "server has no data available". Press ctrl z to stop testing. 
 
 # Enable additional Mousse features
-Please refer to [here](https://github.com/trusslab/mousse_scripts/master/testing/README) if you want to try mousse checkers, mousse coverage plugin or test a real Android service.
+Please refer to [here](https://github.com/trusslab/mousse_scripts/blob/master/testing/README) if you want to try mousse checkers, mousse coverage plugin or test a real Android service.
 
 # Acknowledgments
 The work was supported by NSF Award #1763172
