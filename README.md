@@ -24,7 +24,7 @@ We developed multiple memory checkers in Mousse to detect bugs and vulnerabiliti
 
 Mousse now supports 32-bit ARM.
 
-*More techinical details, please refer to our paper: [Mousse](to appear in EuroSys'20)
+*More techinical details, please refer to our paper: [Mousse](https://www.ics.uci.edu/~yingtong/pdfs/EuroSys20_Mousse_Yingtong.pdf)
 
 Now try Mousse if you are interested!
 
